@@ -10,5 +10,8 @@ public class Test {
 	public static void main(String[] args) {
 		TestInner inner = new Test().new TestInner();
 		inner.sayHi();
+		//comment
+
+		//mesaj adaugat
 	}
 }
