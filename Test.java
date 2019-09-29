@@ -11,7 +11,7 @@ public class Test {
 		TestInner inner = new Test().new TestInner();
 		inner.sayHi();
 		//comment
-
+//FGG
 		//mesaj adaugat
 	}
 }
